@@ -1,0 +1,11 @@
+for:
+la palabra for  dentro de un codigo se usa para repetir  una o varias instrucciones un determinado numero de veces, par que al final de este ciclo se retorne lo que se especifique.
+&&:
+es un comando que significa "y", usado cuando  en un condicional se deben evaluar varias variables al tiempo, si al evaluar las condiciones de cada variable alguna es falsa, el operador retornata falso, de lo contrario, verdadero.
+||:
+es un comando que significa "o", usado cuando  en un condicional se deben evaluar varias variables al tiempo, si al evaluar las condiciones de cada variable alguna es verdadera, el operador retornara verdadero, de lo contrario, falso.
+!:
+es un operador que sifnifica "no", lo que hace es negar la condicion que este evaluando, si evalua una condicion que de negatrivo, devolvera falso, por el contrario devolvera verdadero su evalua una condicion que sea falsa.
+
+
+
