@@ -1,0 +1,1 @@
+Arrays: una lista en la que se puede almacenar cualquier tipo de datos
