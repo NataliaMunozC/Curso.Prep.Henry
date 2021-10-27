@@ -1,0 +1,5 @@
+Objetos:son listados de propiedades que estan relacionadas entre si para definir al objeto. 
+Propiedades: son caracteristicas de los objetos, por ejemplo: si el objeto es una persona, las propiedades podran ser: nombre, apellido, edad, etc.
+Métodos: son las funciones que se definen dentro de un objeto. Es decir, las "cosas que hace" dicho objeto. En el caso de la persona, un metodo puede ser: saludar.
+Bucle for…in:  Es un bucle que sirve para recorrer las diferentes propiedades de los objetos, dado que no estan definidas por numeros como es el caso de los arreglos, no se puede usar un bucle for normal.
+Notación de puntos vs notación de corchetes:son dos formas diferentes de acceder a los valores de las propiedades de los obejtos. La notacion del punto es màs sencilla de escribir, la del corchete funciona como en los arreglos, solo que en vez de poner el subindice del areglo se pondria la clave de la propiedad a la que se quiere acceder.
