@@ -1,0 +1,2 @@
+prototype:  sirve para definir dentro de un objeto los metodos o funciones  que luego los objetos , pertenecientes a esa clase, podran invocar o heredar sin necesidad de tener cada objeeto esa funcion. 
+Constructors (de Clases):  Es la funcion que hace de  plantilla para que un objeto adquiera las propiedades de una clase determinada, la funcion constuctora define las propiedades que luego el objeto con sus propios valores  invocara para ser una instancia de esa clase.
