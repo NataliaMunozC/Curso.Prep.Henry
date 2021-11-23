@@ -1,0 +1,45 @@
+
+
+html{
+    background:url("img2.jpg") ;
+    background-size:cover ;
+  
+}
+
+
+h1 {
+    color:forestgreen;
+}
+img {
+    width:400px;
+    
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 5px double black;
+    margin: 0 auto;
+   
+    
+  
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+li{
+    color: transparent;
+    margin:10px;
+}
+ .divClass {
+     width: 500px;
+     padding: 50px;
+    border: solid black;
+    margin: 0 auto;
+} 
+
+
+
